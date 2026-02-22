@@ -1,16 +1,55 @@
+# Vitor Jansen
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![C#](https://img.shields.io/badge/C%23-Advanced-blue)
+![Backend](https://img.shields.io/badge/Focus-Backend-black)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%20Design-darkgreen)
+![CI/CD](https://img.shields.io/badge/Automation-CI%2FCD-orange)
 
-### Hello World! Eu sou o Vitor Jansen (⌐■_■)
+Software Engineer | .NET Backend | Scalable Systems
 
-👨🏽‍💻 **Apaixonado pela plataforma de desenvolvimento .NET**
+---
 
-🌎 **Let's code the world**
+I design and build reliable backend systems with strong focus on architecture, maintainability and long-term scalability.
 
-![Cliché developer](https://media.giphy.com/media/xUOxfeqfXbzHV8dcDC/giphy.gif)
+I value clean code, clear boundaries, automation and production-ready engineering.
 
-*Você pode me encontrar por aqui 👇🏽*
+---
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/vitorjansen)](https://github.com/vitorjansen)
-[![Outlook Badge](https://img.shields.io/badge/-me@vitorjansen.com-0072C6?style=flat&logo=MicrosoftOutlook&labelColor=white&logoColor=0072C6&link=mailto:ralms@ralms.net)](mailto:me@vitorjansen.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorjansen/)](https://www.linkedin.com/in/vitorjansen/)
+## Core Expertise
 
-***
+- C# / .NET 8
+- ASP.NET Core APIs
+- Clean Architecture
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- Observability & Monitoring
+- CI/CD Automation
+- Performance & Reliability mindset
+
+---
+
+## Engineering Approach
+
+- Backend-first thinking
+- Strong architectural decision-making
+- Maintainable and testable codebases
+- Clear separation of concerns
+- Production-oriented mindset
+- Automation-driven productivity
+
+---
+
+## Selected Work Themes
+
+- Scalable backend services
+- Monitoring and status-driven systems
+- Modular application architecture
+- Automation frameworks (Windows & Browser)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/vitorjansen/  
+GitHub: https://github.com/vitorjansen  
+Email: me@vitorjansen.com
